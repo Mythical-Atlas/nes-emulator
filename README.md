@@ -13,3 +13,5 @@ Arrow = D-Pad
 Z = A
 
 X = B
+
+The source code is in the zip file named "Visual Studio Projects" if you have any interest in looking at it.
